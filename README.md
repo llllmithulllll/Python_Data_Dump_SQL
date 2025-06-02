@@ -1,3 +1,6 @@
+
+<img src="https://github.com/user-attachments/assets/5f4fd81b-bb63-47de-92d8-919334920957" alt="dump_tool" width="498.5" height="390.5">
+
 # Tkinter MySQL Database Manager
 
 This is a simple desktop application built with Python's Tkinter library for managing contact information stored in a MySQL database. It allows you to add, view, update, and delete records with a user-friendly graphical interface.
